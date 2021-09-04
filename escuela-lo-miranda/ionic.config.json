@@ -1,0 +1,7 @@
+{
+  "name": "escuela-lo-miranda",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
